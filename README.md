@@ -1,4 +1,4 @@
-# PWNsticciotti's writeps
+# PWNsticciotti's writeups
 
 In this repository, you can find all the writeups for each of the CTFs we participated in.
 
